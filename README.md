@@ -1,6 +1,6 @@
 Check out my secons Javascript project: FAQ accordion card.
 
-https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto:good,w_900/Challenges/ymtblmv8bbnpazgrfrx6.jpg
+![image](https://user-images.githubusercontent.com/88978210/198837838-7717adca-5779-4d52-84bf-71d3e6310cc0.png)
 
 Github repository: (https://github.com/melloTaiyo/faq-accordion-card-main.git);
 
