@@ -1,4 +1,4 @@
-Check out my secons Javascript project: FAQ accordion card.
+Check out my second Javascript project: a solution to the FAQ accordion card on Frontend Mentor.
 
 ![image](https://user-images.githubusercontent.com/88978210/198837838-7717adca-5779-4d52-84bf-71d3e6310cc0.png)
 
