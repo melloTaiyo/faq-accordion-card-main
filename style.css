@@ -155,6 +155,7 @@ color: var(--soft-red);
     background: url(./images/bg-pattern-desktop.svg) no-repeat;
     background-position: 130% 50%;
     background-size: 50rem;
+    overflow: hidden;
 }
 
  .top-img-mobile {
